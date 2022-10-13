@@ -1,5 +1,8 @@
 import ics
 
+# this calendar is created to make it easy to create a plan for all day meetings which can
+# then be exported as an ics. I personally wrote it to easy convert my training plan into
+# something i can import in my google calendar.
 
 #only right inputs, too lazy for else
 def get_start_date():
